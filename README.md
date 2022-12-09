@@ -17,7 +17,7 @@
 
 <p align="center">
   <em>
-    Hello, I Mrunmai a <b>final year</b> undergraduate from <a href="https://www.annauniv.edu/"> <b>Anna University</b>,INDIA</a>. <br>
+    Hello, I Mrunmai a <b>final year</b> undergraduate from <a href="https://www.annauniv.edu/"> <b>Anna University</b>, INDIA</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and also a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Coding</b> and always looking for new technologies to explore. 
   </em> 
