@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20India-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mrunmai Dahare</h1>
+<h1 align="center">Hi,I am Mrunmai Dahare</h1>
 <h3 align="center">Coding and Problem Solver | Quick Learner</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/mrunmai5115" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_mrunmai5115" height="30" width="40" /></a>
