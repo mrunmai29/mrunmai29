@@ -2,7 +2,7 @@
 
   <img src="https://img.shields.io/badge/Focus-Problem%20Solving-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20India-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Marathi-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi, I am Mrunmai Dahare</h1>
