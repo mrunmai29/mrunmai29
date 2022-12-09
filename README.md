@@ -9,8 +9,6 @@
 <h3 align="center">Coding and Problem Solver | Quick Learner</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/mrunmai5115" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_mrunmai5115" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mrunmai-dahare-6b5a33236/" target="blank"><img align="center" src="https://www.flaticon.com/free-icons/instagram" alt="mrunmai-dahare" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/mrunmai_dahare/" target="blank"><img align="center" alt="insta_mrunmai" height="30" width="40" /></a>
  <a href = "mailto: mrunmai5115@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
